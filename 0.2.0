@@ -1,0 +1,2 @@
+Requirement already satisfied: ml-dtypes in c:\users\surayia rahman\anaconda3\envs\chatbot-env\lib\site-packages (0.4.0)
+Requirement already satisfied: numpy>1.20 in c:\users\surayia rahman\anaconda3\envs\chatbot-env\lib\site-packages (from ml-dtypes) (1.23.5)
